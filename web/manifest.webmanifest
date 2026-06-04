@@ -1,0 +1,17 @@
+{
+  "name": "Shell Shuffle",
+  "short_name": "Shell Shuffle",
+  "description": "Watch the cups. Find the ball. Build your streak — a cozy daily shell game with 100+ collectibles.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#140f1f",
+  "theme_color": "#241634",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
